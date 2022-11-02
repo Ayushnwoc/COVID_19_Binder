@@ -1,0 +1,12 @@
+GEFA/data
+GEFA/saved_model
+GEFA/smiles
+GEFA/*.png
+GEFA/TCs.csv
+GEFA/alignment_scores.csv
+GEFA/test
+*.pickle
+*.gpickle
+*.ipynb
+*.pyc
+GraphINVENT/output_gdb13_1K
